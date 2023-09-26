@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GuwGOFtjyazTuf1ta+pZ8AmSKv2ZuZgk9/j/4yTuLx3UqJDpt2FP+M5LA6Zx/5p9njncrJ6pZhkSIaG3gWkpsA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\OneDrive - Universiti Teknologi PETRONAS\\UTP\\Subjects\\UG Year 1\\UG Year 1 Sem 2\\Object Oriented Programming\\Lab\\Lab 6\\OOP_Lab 6\\OOP_Lab 6\\OOP_Lab 6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.26\\microsoft.netcore.app.host.win-x64.3.1.26.nupkg.sha512"
+  ],
+  "logs": []
+}
